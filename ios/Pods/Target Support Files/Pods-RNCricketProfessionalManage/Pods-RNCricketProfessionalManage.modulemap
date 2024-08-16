@@ -1,0 +1,6 @@
+framework module Pods_RNCricketProfessionalManage {
+  umbrella header "Pods-RNCricketProfessionalManage-umbrella.h"
+
+  export *
+  module * { export * }
+}
